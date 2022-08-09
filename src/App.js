@@ -30,18 +30,21 @@ function App() {
     <div className="App">
 
         <section id="start"><React.Fragment><Navbar /></React.Fragment>
+
+
+        <div id="text_on_top" style={{"all":"none", "font-size": "70px", margin:"0px", top:"200px", position:"relative"} }>
+          welcome to  
+       <span style={{color:"purple", display:"inline"}} > PERCEPTION </span> and <span style={{color:"orangered", display:"inline"}} >ACTIVE COGNITION</span > LAB
+          </div>
         <div className="scroll"  onClick={goToTop}></div>
+
+
+
              <div className="scroll"  onClick={goToTop} style={{  bottom: "100px"}}></div>
   
             </section> 
         <section id="About" ref={myRef} >
-      
-        
-          <p style={{"all":"none", "font-size": "100px", margin:"0px"}}>
-       <div style={{color:"purple", display:"inline"}} >PERCEPTION </div> and <div style={{color:"orangered", display:"inline"}} >ACTIVE COGNITION</div > LAB
-          </p>
-        
-          <AwesomeSlider className="pleasework" >
+          <AwesomeSlider className="pleasework"  style={{  height: "80vh"}}>
            
 
           <div  style={{overflow:"scroll"}}>
@@ -49,10 +52,11 @@ function App() {
       <br /> our subjective experience of the world as we actively engage with our
       <br /> surroundings. We study the interaction of perception, attention, memory 
       <br /> and action within a cognitive neuroscience frameworks. 
-      <br />Specifically, our approach can be described as <p style={{color:"orangered", display:"inline"}} >active cognition</p >
+      
       </p>
       </div>
       <div style={{overflow:"scroll"}}><p className='about_content' >
+      <br />Specifically, our approach can be described as <span style={{color:"orangered", display:"inline"}} >active cognition</span >
       <br />while most studies in the field are based on responses to an abstract 
       <br />stimulus on a single trial during steady fixation, our work examines the way that solving cognitive tasks involves attention and perception interacting
       <br />with context, action (particularly eye movements), memory, emotion and 
