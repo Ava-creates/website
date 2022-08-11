@@ -1,6 +1,6 @@
 # website update instructions
 
-most of the code that needs to be uodates is in src folder in the app.js file
+most of the code that needs to be updated is in <b>src</b> folder in the app.js file
 
 
 
