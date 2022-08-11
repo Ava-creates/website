@@ -1,4 +1,4 @@
-#website update instruction
+# website update instructions
 
 most of the code that needs to be uodates is in src folder in the app.js file
 
