@@ -142,14 +142,29 @@ div{
           #text_on_top
           {
             font-size: 20px;
-
             
           }
+          #People
+          {
+            position: relative;
+            top:10px;
+          }
 
+          #People h1{
+            all:none;
+            position: relative;
+            top:10px;
+            font-size: 40px;
+            padding: 0%;
+            font-family:'Times New Roman', Times, serif;
+          
+          }
+
+          
 
 .pleasework div{
   
-  background-color:rgba(37, 8, 80, 0.8) ;
+  z-index: 0;
   width: 100vw;
   height: 100vh;
   
