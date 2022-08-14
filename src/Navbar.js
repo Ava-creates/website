@@ -99,7 +99,7 @@ function Navbar(){
             </div>
             <div id="mainListDiv" className={name} >
                 <ul className="navlinks">
-                    <li><a href="#About">About</a></li>
+                    <li><a href="#">About</a></li>
                     <li><a href="#Research">Research</a></li>
                     <li><a href="#People">People</a></li>
                     <li><a href="#">Contact</a></li>

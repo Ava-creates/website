@@ -3,7 +3,7 @@ import './App.css';
 import React from 'react';
 
 import Navbar from "./Navbar";
-
+import People from "./People";
 import { useState } from "react";
 
 import {useRef} from "react";
@@ -93,12 +93,15 @@ naturalistic viewing conditions in which participants are able to move their eye
 
         </section>
 
-        <section id="Research">
+        <section id="People">
          
-          <div className="research_content">
+          <div className="people">
           <h1>
-            RESEARCH AND PUBLICATION
+            Meet the team!
           </h1>
+          
+          <React.Fragment><People /></React.Fragment>
+
           
           </div>
          
