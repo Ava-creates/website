@@ -17,22 +17,12 @@ function Timeline()
 
     <h3 className="vertical-timeline-element-title">2022-present</h3>
     <li>
-        <ul> Creative Direction</ul>
-        <ul> Creative Direction</ul>
-        <ul> Creative Direction</ul>
-        <ul> Creative Direction</ul>
-        <ul> Creative Direction</ul>
-        <ul> Creative Direction</ul>
-        <ul> Creative Direction</ul>
+        <ul> Paper 1</ul>
+        <ul> Paper 2</ul>
+        <ul> Paper 3</ul>
+       
     </li>
-    <p>
-      Creative Direction, User Experience, Visual Design, Project Management, Team Leading
-
-      fdsfdscsdcds
-      dadscdscds
-      dcdscdsvdsac
-      dscsac
-    </p>
+   
   </VerticalTimelineElement>
   <VerticalTimelineElement
     className="vertical-timeline-element--work"
@@ -43,14 +33,12 @@ function Timeline()
   >
     <h3 className="vertical-timeline-element-title">Art Director</h3>
     <h4 className="vertical-timeline-element-subtitle">San Francisco, CA</h4>
+    
     <li>
-        <ul> Creative Direction</ul>
-        <ul> Creative Direction</ul>
-        <ul> Creative Direction</ul>
-        <ul> Creative Direction</ul>
-        <ul> Creative Direction</ul>
-        <ul> Creative Direction</ul>
-        <ul> Creative Direction</ul>
+        <ul> Paper 1</ul>
+        <ul> Paper 2</ul>
+        <ul> Paper 3</ul>
+    
     </li>
     <p>
       Creative Direction, User Experience, Visual Design, SEO, Online Marketing
