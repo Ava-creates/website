@@ -4,6 +4,7 @@ import React from 'react';
 
 import Navbar from "./Navbar";
 import People from "./People";
+import Timeline from "./timeline";
 import { useState } from "react";
 
 import {useRef} from "react";
@@ -93,6 +94,19 @@ naturalistic viewing conditions in which participants are able to move their eye
 
         </section>
 
+
+
+        <section id="Research">
+
+        <div className="research ">
+          <h1>
+            Research and Publication
+          </h1>
+        </div>
+
+        <React.Fragment><Timeline /></React.Fragment>
+        </section>
+
         <section id="People">
          
           <div className="people">
@@ -104,9 +118,6 @@ naturalistic viewing conditions in which participants are able to move their eye
 
           
           </div>
-         
-          
-    
  
 
         </section>

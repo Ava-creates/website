@@ -75,7 +75,10 @@ div{
   top:-26vh;
 
 }
-
+#Research
+{
+  padding-bottom: 20vh;
+}
 .people
 {
   padding: 10vw;
@@ -157,6 +160,13 @@ div{
             font-size: 40px;
             padding: 0%;
             font-family:'Times New Roman', Times, serif;
+          
+          }
+
+          .awssld__content{
+            background-color:rgba(37, 8, 80, 0.8) ;
+            overflow-y: scroll;
+            
           
           }
 
