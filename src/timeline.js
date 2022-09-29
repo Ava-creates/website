@@ -26,6 +26,45 @@ spatio-temporal sampling in vision through different oscillatory rhythms.<a href
         <ul>Liu X, Balestrieri E, Melcher D. (2022) Evidence for a theta-band behavioral oscillation
 in rapid face detection, European Journal of Neuroscience <a href='https://onlinelibrary.wiley.com/doi/10.1111/ejn.15790'>link</a></ul>
        
+       <ul> Sharp P, Gutteling T, Melcher D, Hickey C. (2022) Spatial attention tunes temporal
+processing in early visual cortex, Journal of Neuroscience, in press.  </ul>
+
+       <ul> Drewes J, Muschter E, Zhu W, Melcher D. (2022) Individual resting-state alpha peak
+frequency and within-trial changes in alpha peak frequency both predict visual flash
+segregation performance. Cerebral Cortex, online ahead of print. <a href="https://doi.org/10.1093/cercor/bhac026">link</a>  </ul>
+
+       <ul> Balestrieri E, Ronconi L, Melcher D (2021) Shared resources between visual attention
+and visual working memory are allocated through rhythmic sampling. European Journal
+of Neuroscience.<a href="https://doi.org/10.1111/ejn.15264">link</a>  </ul>
+
+<ul>Melcher D, Huber-Huber C, Wutz A (2020) Enumerating the forest before the trees: the
+time courses of estimation- and individuation-based numerical processing. Attention,
+Perception and Psychophysics, published online 30/9/20 <a href="https://doi.org/10.3758/s13414-
+020-02137-5.">link</a>
+</ul>
+
+<ul>Melcher D, Kumar D, Srinivasan N (2020) The role of action intentionality and effector in
+the subjective expansion of temporal duration after saccadic eye movements. Scientific
+Reports <a href="https://www.nature.com/articles/s41598-020-73830-6">link</a></ul>
+
+<ul>Ronconi L, Melcher D, Franchin L. (2020) Investigating the role of temporal processing
+in developmental dyslexia: Evidence for a specific deficit in rapid visual segmentation.
+
+Psychonomic Bulletin and Review <a href="https://link.springer.com/article/10.3758/s13423-020-01752-5">link</a> </ul>
+
+<ul>Wutz A, Melcher D, Samaha J (2018) Frequency modulation of neural oscillations
+according to visual task demands. Proceedings of the National Academy of Sciences <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5819398/">link</a></ul>
+
+<ul>Ronconi L, Busch N, Melcher D (2018) Alpha-band sensory entrainment alters the
+duration of temporal windows in visual perception. Scientific Reports <a href="https://doi.org/10.1038/s41598-018-29671-5">link</a></ul>
+
+
+<ul >Ronconi L, Oosterhof N, Bonmassar C &amp; Melcher D (2017) Multiple oscillatory rhythms
+determine the temporal organization of perception. Proceedings of the National
+Academy of Sciences <a href="https://doi.org/10.1073/pnas.1714522114"></a></ul>
+
+<ul></ul>
+
     </li>
    
   </VerticalTimelineElement>
